@@ -1,5 +1,5 @@
 # Java-GUI-Application-
-This Application is used to check the available flights a person can book with his miles earned. It shows all the available flights is can afford. The program asks for a data file which should in the format as Destination Mileage.txt
+The purpose of this assignment is to write a Java GUI application with which a travel agent could present options for travel destinations to a client who wants to redeem his or her accumulated frequent flyer miles. Assuming all trips depart from O'Hare International Airport and that the miles represented are for a roundtrip ticket. You can input your own data file.
 
 This is how the output looks.
 
