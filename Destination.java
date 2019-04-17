@@ -1,16 +1,3 @@
-/*******************************************************************************************************
-  *                                                                                                  *
-  *  CSCI 470/502          Assignment 8           Fall 2018                                          *
-  *                                                                                                  *
-  * Programmer : Sandeep Alla		                                                             *
-  *                                                                                                  *
-  * Due Date : 11/28/2018 11:59PM                                                                    *
-  *                                                                                                  *
-  * Purpose : This program contains a "Destination" class which has a variables,constructor, get     *
-  * and set methods       					                                     *
-  *                                                                                                  *
-  *******************************************************************************************************/
-
 public class Destination
 {
 	// Instance variables
