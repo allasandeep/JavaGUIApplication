@@ -1,17 +1,3 @@
-/*******************************************************************************************************
-  *                                                                                                  *
-  *  CSCI 470/502          Assignment 8           Fall 2018                                          *
-  *                                                                                                  *
-  * Programmer : Sandeep Alla                                                                        *
-  *                                                                                                  *
-  * Due Date : 11/28/2018 11:59PM                                                                    *
-  *                                                                                                  *                                                           *
-  * Purpose : This program contains a "MileRedemption" class which has various methods to calculate  *
-  * and return miles and possible tickets to various destinations                                    *
-  *                                                                                                  *
-  *******************************************************************************************************/
-
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
